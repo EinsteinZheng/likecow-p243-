@@ -4,7 +4,7 @@
 //
 //  Created by Zheng on 10/14/18.
 //  Copyright © 2018 Monkey Coder Studio. All rights reserved.
-//  1s/256M
+//  1s/256MB
 
 #include <iostream>
 #include<vector>
